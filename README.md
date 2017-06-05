@@ -1,7 +1,18 @@
 # Guidelines for field designers in Rescue
 
+This is a guideline document for the RoboCup Junior Rescue League. Inspired by various practices popular among the community.
+
+If you feel like contributing, please do so! Fork the project and open a pull request.
+
+
+
+## Objective
+
 The main objective for the field designer is to make a fair competition for all teams. To find the team with the best robot! 
 But what is the best robot? What define a good robot? I would say in Rescue it is a robot that manage the rules without human intervention. An autonomous robot that can handle a lot of difficulties (defined in the rules). 
+
+
+## What is not a good robot
 
 I would also say that a good robot is **not** a robot that:
 
@@ -62,3 +73,14 @@ For example don't place an obstacle at a tile near the edge of the field if the 
 1. Obstacles in evacuation room is allowed, but doesn't give any score. 
 2. Points are awarded for each negotiated difficulty. I.e. if two obstacles is located in the same tile the team will earn 20p. But the points are awarded when the robot continue to follow the line in the next tile. 
 
+
+## License
+
+![cc license](http://i.creativecommons.org/l/by/4.0/88x31.png)
+
+This work is licensed under a [Creative Commons Attribution 4.0
+International license](https://creativecommons.org/licenses/by/4.0/).
+
+## Credits
+
+Fredrik Lofgren / [@FredrikLofgren](https://twitter.com/fredriklofgren) / http://fredriklofgren.se
