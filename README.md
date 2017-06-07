@@ -23,34 +23,35 @@ I would also say that a good robot is **not** a robot that:
 
 ## Some basic rules
 <ol>
-  <li><strong>Follow the rules!</strong><br>Don't make anything that is not in accordance with the rules. For example gaps longer than 20 cm.<br><br></li>
+  <li><strong>Follow the rules!</strong><br>Don't make anything that is not in accordance with the rules. For example gaps longer than 20 cm.<br></li>
   
   <li><strong>Don't make nonsense just because it is fun for you or the audience. – even if it is allowed according to the rules!</strong><br>
   Example: placing an obstacle ontop of an intersection. The robot has no chance to know which direction it should turn without pushing the obstacle away and most robots just move around the obstacles (like it was originally intended). <br>
   <li><strong>Design the path in a way that allows the robot to reach the evacuation zone and rescue victims.</strong><br>
   Don't make a path that never reaches the evacuation zone. Don't design the path to cost so much time that the robot does not have any time to rescue victims. Most teams want to show that the robot can rescue victims! 
-This also means: don't block the evacuation point with obstacles so it is impossible to rescue any victims.<br><br></li>
+This also means: don't block the evacuation point with obstacles so it is impossible to rescue any victims.<br></li>
 
 <li><strong>Don't make it too hard! Don't increase the difficulty of the fields too much.</strong><br>
 We want teams to be happy and learn from the competition. To make all teams feel that they succeeded with something!<br> 
-Often people think it is easy to make really hard and really easy fields – but it is hard to make something in between. The hardest is to do the next to most difficult fields. <br><br></li>
+Often people think it is easy to make really hard and really easy fields – but it is hard to make something in between. The hardest is to do the next to most difficult fields. <br></li>
 
 <li><strong>Use different kind of difficulties</strong><br>
 Don't make a field with just speedbumps and debris. Use other things as well, for example black tiles in maze and gaps in line.<br><br></li>
 
 <li><strong>Avoid things that are unclear and not defined in the rules.</strong><br> 
-Like tiles with two or more intersections that have entry and exit in the same direction. It will be impossible to judge if the robot goes in between of the different paths since a LoP is defined by looking at the different tiles the robot visits. The same takes effect if the tile includes a gap.<br><br></li>
+Like tiles with two or more intersections that have entry and exit in the same direction. It will be impossible to judge if the robot goes in between of the different paths since a LoP is defined by looking at the different tiles the robot visits. The same takes effect if the tile includes a gap.<br></li>
 
 <li><strong>Avoid evil things, even if it is allowed in the rules.</strong><br>
 Examples:
-* placing an obstacle in a roundabout or placing a gap just after an obstacle
-* making the obstacles reflective like the victims and placing them in the evacuation zone.
-* placing a wall just in front of a dead-end in line so the robot doesn't have enough space to turn around. 
-* having two lines just adjacant. There is no minimal distance from a line to another line, but a good standard is to use half the width of a robot (10cm) between lines and between lines and walls. This is because the robot may use some zig-zag pattern to find its way back to the line after obstacles and gaps and it is sad if they find the wrong line. 
-* constructing obstacles rounded or soft is not nice since most sensors will give inaccurate reading when the signal is bouncing against the surface of the obstacle.<br></li>
+<ul> 
+<li> placing an obstacle in a roundabout or placing a gap just after an obstacle <br></li>
+<li> making the obstacles reflective like the victims and placing them in the evacuation zone. <br></li>
+<li> placing a wall just in front of a dead-end in line so the robot doesn't have enough space to turn around.  <br></li>
+<li> having two lines just adjacant. There is no minimal distance from a line to another line, but a good standard is to use half the width of a robot (10cm) between lines and between lines and walls. This is because the robot may use some zig-zag pattern to find its way back to the line after obstacles and gaps and it is sad if they find the wrong line. <br></li>
+<li> constructing obstacles rounded or soft is not nice since most sensors will give inaccurate reading when the signal is bouncing against the surface of the obstacle.<br></li>
 
 <li><strong>Don't force team do use randomization in their program or to do pre-mapping activities.</strong><br>
-For example don't place an obstacle at a tile near the edge of the field if the field is missing walls. Most probably the robots in Line can't detect the edge of the table and therefore they can not know if they should go right or left around the obstacle.<br><br></li>
+For example don't place an obstacle at a tile near the edge of the field if the field is missing walls. Most probably the robots in Line can't detect the edge of the table and therefore they can not know if they should go right or left around the obstacle.<br></li>
 </ol>
 
 
