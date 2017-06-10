@@ -7,7 +7,7 @@ If you feel like contributing, please do so! Fork the project and open a pull re
 ## Objective
 
 The main objective for the field designer is to make a fair competition for all teams – and to find the team with the best robot! 
-But what is the best robot? What defines a good robot? I would say: in Rescue it is a robot if it manages the tasks defined by the rules without human intervention. Short: an autonomous robot that is able to handle a lot of difficulties (defined in the rules). 
+But what is the best robot? What defines a good robot? I would say: in Rescue it is a good robot if it manages the tasks defined by the rules without human intervention. Short: an autonomous robot that is able to handle a lot of difficulties (defined in the rules). 
 
 
 ## What does not define a good robot
@@ -25,7 +25,7 @@ I would also say that a good robot is **not** a robot that:
 <ol>
   <li><strong>Follow the rules!</strong><br>Don't make anything that is not in accordance with the rules. For example gaps longer than 20 cm.<br></li>
   
-  <li><strong>Don't make nonsense just because it is fun for you or the audience. – even if it is allowed according to the rules!</strong><br>
+  <li><strong>Don't make nonsense just because it is fun for you or the audience – even if it is allowed according to the rules!</strong><br>
   Example: placing an obstacle ontop of an intersection. The robot has no chance to know which direction it should turn without pushing the obstacle away and most robots just move around the obstacles (like it was originally intended). <br>
   <li><strong>Design the path in a way that allows the robot to reach the evacuation zone and rescue victims.</strong><br>
   Don't make a path that never reaches the evacuation zone. Don't design the path to cost so much time that the robot does not have any time to rescue victims. Most teams want to show that the robot can rescue victims! 
