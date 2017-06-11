@@ -48,7 +48,7 @@ Examples:
 <li> making the obstacles reflective like the victims and placing them in the evacuation zone. <br></li>
 <li> placing a wall just in front of a dead-end in line so the robot doesn't have enough space to turn around.  <br></li>
 <li> having two lines just adjacant. There is no minimal distance from a line to another line, but a good standard is to use half the width of a robot (10cm) between lines and between lines and walls. This is because the robot may use some zig-zag pattern to find its way back to the line after obstacles and gaps and it is sad if they find the wrong line. <br></li>
-<li> constructing obstacles rounded or soft is not nice since most sensors will give inaccurate reading when the signal is bouncing against the surface of the obstacle.<br></li>
+<li> constructing obstacles rounded, transparent or soft is not nice since most sensors will give inaccurate reading when the signal is bouncing against the surface of the obstacle.<br></li>
 
 <li><strong>Don't force team do use randomization in their program or to do pre-mapping activities.</strong><br>
 For example don't place an obstacle at a tile near the edge of the field if the field is missing walls. Most probably the robots in Line can't detect the edge of the table and therefore they can not know if they should go right or left around the obstacle.<br></li>
